@@ -1,3 +1,2 @@
 hello world
-hello from text
-hello from text2
+hello from texthello from text
