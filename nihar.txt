@@ -1,6 +1,10 @@
 this is nihar's file
 <<<<<<< HEAD
+<<<<<<< HEAD
 line from harshal
+=======
+i made this edit nihar
+>>>>>>> 53ca2f682e5fef2f799b69ade50455ab689cb6d1
 =======
 im charles here
 >>>>>>> 1d203ffcc88d8385abe9ffeb88e5a3220784fc58
