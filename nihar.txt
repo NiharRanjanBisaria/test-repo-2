@@ -1,2 +1,6 @@
 this is nihar's file
+<<<<<<< HEAD
 line from harshal
+=======
+im charles here
+>>>>>>> 1d203ffcc88d8385abe9ffeb88e5a3220784fc58
